@@ -38,5 +38,6 @@ I am a 3rd year CSE Student <img src="https://media.giphy.com/media/WUlplcMpOCEm
  ---
 
 ### :fire: My Stats :
-![Anvith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnvithDev&count_private=true&theme=vision-friendly-dark&hide=prs)<div></div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnvithDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anvith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnvithDev&count_private=true&theme=vision-friendly-dark&hide=prs&show_icons=true)<div></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnvithDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <div></div>
+<!-- <img src="https://komarev.com/ghpvc/?username=AnvithDev&style=flat-square&color=blue" alt=""/> -->
